@@ -1,0 +1,31 @@
+# Descripció de la pràctica
+
+## Context
+
+## Títol
+
+## Descripció del dataset
+
+## Representació gràfica
+
+## Contingut
+El dataset inclou diverses característiques d'Iphones de la pàgina Back Market: el **Producte** que és (Iphone 8, Iphone 11...),  X X X.
+Les dades són corresponents al moment en que s'executa el script: els Iphone en venda en aquell moment a la pàgina. El dataset penjat conté els productes del dia XXX, dia en que l'script va ser executat.
+Les dades s'han recollit mitjançant un script (que realitza Web Scraping), extraient els productes de la pàgina.
+
+## Agraïments
+
+Agraïments al propietari del conjunt de dades: Back Market, malgrat exclou a tots els robots d'alguns índexs de la seva pàgina. L'ús de les dades serà exclusivament acadèmic.
+
+Incloure cites d'anàlisis anteriors o justificar la cerca amb anàlisis similars.
+
+Justificar els passos seguits per actuar amb els principis ètics i legals en el context del projecte. 
+
+## Inspiració
+
+## Llicència
+La llicència pel dataset resultant escollida és la **GNU General Public License**, una llicència lliure que permet la llibertat d'executar, estudiar, compartir, copiar i modificar el software. Assegura que el contingut és de tipus copyleft: qualsevol modificació s'ha de continuar distribuint amb la mateixa llicència GPL.
+(FALTA MÉS MOTIUS D'ELECCIÓ DE LA LLICÈNCIA -> MIRAR EXEMPLE AL GITHUB https://github.com/datalifecicleuoc/web-scraping/blob/master/Ejercicio%207.pdf)
+
+## Dataset
+S'adjunten les dades en format CSV. Els camps es separen amb ";".
