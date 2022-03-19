@@ -1,13 +1,14 @@
 # Tipologia i cicle de vida de les dades - PRAC 1
 Repositori per la PAC4 de Programació DataScience (aula 2) 2021. Presenta el projecte i explica com executar-lo.
 
-# TCVD---PRAC1
+## Membres de l'equip
+L'actitivat ha estat realitzada de manera grupal per **Arnau Santos Ribelles** i **Ferran Pintó Haro**. 
 
 ## Descripció
 
-Aquest programa extreu el preu i varies característiques dels diferents Iphones de la pàgina web de [BackMarket](https://www.backmarket.es/).
+Aquest programa extreu el preu i varies característiques dels diferents "Iphone" en venta de la pàgina web de [BackMarket](https://www.backmarket.es/) en el moment d'execució del script.
 
-Els registros s'emmagatzemen en un arxiu de tipus CSV.
+Els registres s'emmagatzemen en un arxiu de tipus CSV.
 
 ## Requeriments
 
@@ -19,17 +20,17 @@ pip install lxml
 pip install beautifulsoup4
 ```
 
-## Membres de l'equip
-L'actitivat ha estat realitzada de manera grupal per *Arnau Santos Ribelles** i **Ferran Pintó Haro**. 
-
 ## El fitxer de llicència
 El fitxer de llicència ```LICENSE``` conté la inclusió de la llicència sota la qual es distribueix el codi.
 
 ## Fitxers de codi font
-* **src/xxx.py**: conté la implementació del codi per fer scraping de la pàgina i genera el conjunt de dades a partir de la pàgina online [BackMarket] (https://www.backmarket.es/).
+**Practica1-WebScraping.ipynb**: conté la implementació del codi per fer scraping de la pàgina i genera el conjunt de dades a partir de la pàgina online.
 
-## Fitxers 
-* **src/Practica 1.pdf**: conté l'explicació dels continguts de la PAC, context, inspiració, etc.
+## Altres fitxers 
+**Practica 1.pdf**: pdf que conté l'explicació dels continguts de la PAC, context, inspiració, etc.
+
+**PRAC1_Iphone-Backmarket.csv**: conté el dataset resultant en format csv.
 
 ## Recursos
-1. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.   # ES FALS, ES PER PROVAR
+1. Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC
+2. Masip, D. (2010). El lenguaje Python. Editorial UOC.
