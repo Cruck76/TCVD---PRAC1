@@ -18,14 +18,12 @@ pip install lxml
 pip install beautifulsoup4
 ```
 
-## El fitxer de llicència
-El fitxer de llicència ```LICENSE``` conté la inclusió de la llicència sota la qual es distribueix el codi.
+## Fitxers
+- **```codi/Practica1-WebScraping.ipynb```**: fitxer que conté la implementació del codi per fer scraping de la pàgina i genera el conjunt de dades a partir de la pàgina online.
 
-## Fitxer de codi font
-**Practica1-WebScraping.ipynb**: conté la implementació del codi per fer scraping de la pàgina i genera el conjunt de dades a partir de la pàgina online.
+- **```Practica 1.pdf```**: document pdf que conté les respostes als apartats 1-10 de la Pràctica.
 
-## Altres fitxers (document PDF)
-**Practica 1.pdf**: pdf que conté les respostes als apartats 1-10 de la Pràctica.
+- ```LICENSE```: fitxer de llicència que conté la inclusió de la llicència sota la qual es distribueix el codi.
 
 ## Dataset generat
 El dataset generat es troba publicat en format CSV a Zenodo. El seu **DOI** és el següent:
