@@ -26,3 +26,6 @@ pip install beautifulsoup4
 ## Dataset generat
 El dataset generat es troba publicat en format CSV a Zenodo. El seu **DOI** és el següent:
 **10.5281/zenodo.6385536**
+
+I el seu enllaç és: **https://doi.org/10.5281/zenodo.6385536**
+
