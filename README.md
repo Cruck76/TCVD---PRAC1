@@ -23,8 +23,6 @@ pip install beautifulsoup4
 
 - **```Practica 1.pdf```**: document pdf que conté les respostes als apartats 1-10 de la Pràctica.
 
-- ```LICENSE```: fitxer de llicència que conté la inclusió de la llicència sota la qual es distribueix el codi.
-
 ## Dataset generat
 El dataset generat es troba publicat en format CSV a Zenodo. El seu **DOI** és el següent:
-**XXX**
+**10.5281/zenodo.6385536**
